@@ -1,0 +1,10 @@
+
+div{
+    background-color:black;
+    height:100px;
+    width:100px;
+    display:inline-block;
+    color: white;
+    line-height: 50px;
+    text-align: center;
+}
